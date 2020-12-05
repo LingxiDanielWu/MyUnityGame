@@ -1,0 +1,14 @@
+*.sln
+*.csproj
+Assets/_TerrainAutoUpgrade/
+Assets/Fantasy Chess RPG Character - Arthur/
+Assets/FBXTest/
+Assets/Flooded_Grounds/
+.vs/
+Assets/_TerrainAutoUpgrade.meta
+Assets/Fantasy Chess RPG Character - Arthur.meta
+Assets/FBXTest.meta
+Assets/Flooded_Grounds.meta
+Library/
+obj/
+Temp/
