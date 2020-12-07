@@ -102,7 +102,7 @@ public class focusTest : MonoBehaviour
         float horizonRotateAngle = (mousePos.x - _lastPressPos.x) * rotateSpeed;
         float verticalRotateAngle = (mousePos.y - _lastPressPos.y) * rotateSpeed;
         rotateHorizontal(horizonRotateAngle);
-        rotateVertical(verticalRotateAngle);
+        rotateVertical(-verticalRotateAngle);
         _lastPressPos = mousePos;
     }
 
